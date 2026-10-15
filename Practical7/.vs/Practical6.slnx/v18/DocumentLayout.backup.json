@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\HC\\Sem5\\.Net\\Practicals\\.Net-Technology\\Practical6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8EA704-6386-4422-B7C0-06F8A5CDC433}|Practical6.csproj|c:\\hc\\sem5\\.net\\practicals\\.net-technology\\practical6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8EA704-6386-4422-B7C0-06F8A5CDC433}|Practical6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8EA704-6386-4422-B7C0-06F8A5CDC433}|Practical6.csproj|c:\\hc\\sem5\\.net\\practicals\\.net-technology\\practical6\\views\\feedback\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E8EA704-6386-4422-B7C0-06F8A5CDC433}|Practical6.csproj|solutionrelative:views\\feedback\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8EA704-6386-4422-B7C0-06F8A5CDC433}|Practical6.csproj|c:\\hc\\sem5\\.net\\practicals\\.net-technology\\practical6\\views\\shared\\_feedbackform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E8EA704-6386-4422-B7C0-06F8A5CDC433}|Practical6.csproj|solutionrelative:views\\shared\\_feedbackform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8EA704-6386-4422-B7C0-06F8A5CDC433}|Practical6.csproj|c:\\hc\\sem5\\.net\\practicals\\.net-technology\\practical6\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8EA704-6386-4422-B7C0-06F8A5CDC433}|Practical6.csproj|solutionrelative:controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8EA704-6386-4422-B7C0-06F8A5CDC433}|Practical6.csproj|c:\\hc\\sem5\\.net\\practicals\\.net-technology\\practical6\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8EA704-6386-4422-B7C0-06F8A5CDC433}|Practical6.csproj|solutionrelative:models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8EA704-6386-4422-B7C0-06F8A5CDC433}|Practical6.csproj|c:\\hc\\sem5\\.net\\practicals\\.net-technology\\practical6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E8EA704-6386-4422-B7C0-06F8A5CDC433}|Practical6.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 246,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\HC\\Sem5\\.Net\\Practicals\\.Net-Technology\\Practical6\\Views\\Feedback\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Feedback\\Index.cshtml",
+              "ToolTip": "C:\\HC\\Sem5\\.Net\\Practicals\\.Net-Technology\\Practical6\\Views\\Feedback\\Index.cshtml",
+              "RelativeToolTip": "Views\\Feedback\\Index.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-10T13:06:35.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\HC\\Sem5\\.Net\\Practicals\\.Net-Technology\\Practical6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\HC\\Sem5\\.Net\\Practicals\\.Net-Technology\\Practical6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T13:07:00.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_FeedbackForm.cshtml",
+              "DocumentMoniker": "C:\\HC\\Sem5\\.Net\\Practicals\\.Net-Technology\\Practical6\\Views\\Shared\\_FeedbackForm.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_FeedbackForm.cshtml",
+              "ToolTip": "C:\\HC\\Sem5\\.Net\\Practicals\\.Net-Technology\\Practical6\\Views\\Shared\\_FeedbackForm.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_FeedbackForm.cshtml",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwGsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-10T13:05:54.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FeedbackController.cs",
+              "DocumentMoniker": "C:\\HC\\Sem5\\.Net\\Practicals\\.Net-Technology\\Practical6\\Controllers\\FeedbackController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FeedbackController.cs",
+              "ToolTip": "C:\\HC\\Sem5\\.Net\\Practicals\\.Net-Technology\\Practical6\\Controllers\\FeedbackController.cs",
+              "RelativeToolTip": "Controllers\\FeedbackController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T13:05:10.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\HC\\Sem5\\.Net\\Practicals\\.Net-Technology\\Practical6\\Models\\Feedback.cs",
+              "RelativeDocumentMoniker": "Models\\Feedback.cs",
+              "ToolTip": "C:\\HC\\Sem5\\.Net\\Practicals\\.Net-Technology\\Practical6\\Models\\Feedback.cs",
+              "RelativeToolTip": "Models\\Feedback.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T13:04:20.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\HC\\Sem5\\.Net\\Practicals\\.Net-Technology\\Practical6\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\HC\\Sem5\\.Net\\Practicals\\.Net-Technology\\Practical6\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-10T13:06:51.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
